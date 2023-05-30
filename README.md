@@ -1,7 +1,7 @@
 # Patrick
 ![alt text](https://github.com/therick0996/mara/blob/main/00_KLE.jpg)
 
-![alt text](https://github.com/therick0996/mara/blob/main/01_pcb.jpg)
+![alt text](https://github.com/therick0996/mara/blob/main/01_PCB.jpg)
 
 ![alt text](https://github.com/therick0996/mara/blob/main/03_schematic.jpg)
 
